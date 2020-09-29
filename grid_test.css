@@ -1,0 +1,43 @@
+#container {
+    position: absolute;
+    background-color: black;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+    display: grid;
+}
+
+#box1 {
+    background-color: green;
+    width: 50%;
+    height: 100%;
+    justify-self: center;
+    align-self: center;
+}
+
+#box2 {
+    background-color: red;
+    width: 50%;
+    height: 10%;
+}
+
+#box3 {
+    background-color: yellow;
+    width: 50%;
+    height: 10%;
+}
+
+#box4 {
+    background-color: white;
+    width: 50%;
+    height: 10%;
+}
+
+#box5 {
+    background-color: purple;
+    width: 50%;
+    height: 10%;
+}
